@@ -1,0 +1,16 @@
+﻿  testTransform.cpp
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\vec2.h(139,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\vec2.h(140,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\mat3.h(101,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\mat3.h(102,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\mat3.h(103,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\mat3.h(104,27): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\mat3.h(141,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\mat3.h(142,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\mat3.h(154,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\mat4.h(162,66): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\transform.h(57,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\transform.h(111,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\transform.h(123,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\2D_3D_Transformations\transform.h(135,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  2D_3D_Transformations.vcxproj -> D:\Faculty\An 2\An 2 - Sem 2\ECG\2D_3D_Transformations\2D_3D_Transformations\x64\Debug\2D_3D_Transformations.exe

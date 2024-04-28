@@ -18,14 +18,16 @@ int test2DTransformImplementation()
     egc::mat3 m1, m2(a2);
     
     m1 = egc::translate(egc::vec2(2.0f, 3.0f));
-    if(m1 == m2)
+    if (m1 == m2)
+    {
         std::cout << "\tCorrect translate matrix (by vec2)" << std::endl;
+    }
     else
     {
         std::cout << "\tIncorrect translate matrix (by vec2)" << std::endl;
         nrOfErrors++;
     }
-    
+
     m1 = egc::translate(2.0f, 3.0f);
     if(m1 == m2)
         std::cout << "\tCorrect translate matrix (by values)" << std::endl;
