@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(101,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(102,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(103,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(104,27): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(141,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(142,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(154,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat4.h(162,66): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat4.h(201,27): error C2374: 'sign': redefinition; multiple initialization
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat4.h(194,35): message : see declaration of 'sign'
+  testMatrix.cpp
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(101,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(102,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(103,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(104,27): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(141,37): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(142,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat3.h(154,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat4.h(162,66): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat4.h(201,27): error C2374: 'sign': redefinition; multiple initialization
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\mat4.h(194,35): message : see declaration of 'sign'
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Handling-Matrices\Handling-Matrices\testMatrix.cpp(184,177): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
