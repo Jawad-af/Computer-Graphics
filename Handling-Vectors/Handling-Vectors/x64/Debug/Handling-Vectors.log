@@ -1,0 +1,5 @@
+﻿  main.cpp
+G:\My Drive\FS-R00T\01-AC\Y2-SEM-02\[03] ECG\Labs\Lab 2\Implementations\MyImpl\Handling-Vectors\Handling-Vectors\vec2.h(139,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\My Drive\FS-R00T\01-AC\Y2-SEM-02\[03] ECG\Labs\Lab 2\Implementations\MyImpl\Handling-Vectors\Handling-Vectors\vec2.h(140,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+G:\My Drive\FS-R00T\01-AC\Y2-SEM-02\[03] ECG\Labs\Lab 2\Implementations\MyImpl\Handling-Vectors\Handling-Vectors\main.cpp(252,1): warning C4102: 'std': unreferenced label
+  Handling-Vectors.vcxproj -> G:\My Drive\FS-R00T\01-AC\Y2-SEM-02\[03] ECG\Labs\Lab 2\Implementations\MyImpl\Handling-Vectors\x64\Debug\Handling-Vectors.exe
