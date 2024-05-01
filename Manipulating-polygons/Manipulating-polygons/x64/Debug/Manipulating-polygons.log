@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Manipulating-polygons\Manipulating-polygons\main.cpp(2,10): fatal  error C1083: Cannot open include file: 'SDL2/SDL.h': No such file or directory
+  polygon.cpp
+D:\Faculty\An 2\An 2 - Sem 2\ECG\Manipulating-polygons\Manipulating-polygons\polygon.h(8,10): fatal  error C1083: Cannot open include file: 'SDL2/SDL.h': No such file or directory
+  Generating Code...
