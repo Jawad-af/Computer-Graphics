@@ -136,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="clip.cpp" />
+    <ClCompile Include="cyrus_beck.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="vec3.cpp" />
     <ClCompile Include="vec4.cpp" />

@@ -38,5 +38,8 @@
     <ClCompile Include="vec4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cyrus_beck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
